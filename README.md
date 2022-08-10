@@ -1,4 +1,4 @@
-# Instalasi-mongoDB
+# Set up and Instalasi-mongoDB
 <ul>
   <li>sudo apt-get purge mongodb-org*</li>
   <li>sudo apt remove mongodb</li>
